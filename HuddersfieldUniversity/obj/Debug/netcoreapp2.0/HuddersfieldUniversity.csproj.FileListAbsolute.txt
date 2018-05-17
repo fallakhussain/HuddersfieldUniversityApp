@@ -1,0 +1,11 @@
+C:\Users\falla\Documents\GitHubRepos\HuddersfieldUniversityApp\HuddersfieldUniversityApp\HuddersfieldUniversity\bin\Debug\netcoreapp2.0\HuddersfieldUniversity.deps.json
+C:\Users\falla\Documents\GitHubRepos\HuddersfieldUniversityApp\HuddersfieldUniversityApp\HuddersfieldUniversity\bin\Debug\netcoreapp2.0\HuddersfieldUniversity.runtimeconfig.json
+C:\Users\falla\Documents\GitHubRepos\HuddersfieldUniversityApp\HuddersfieldUniversityApp\HuddersfieldUniversity\bin\Debug\netcoreapp2.0\HuddersfieldUniversity.runtimeconfig.dev.json
+C:\Users\falla\Documents\GitHubRepos\HuddersfieldUniversityApp\HuddersfieldUniversityApp\HuddersfieldUniversity\bin\Debug\netcoreapp2.0\HuddersfieldUniversity.dll
+C:\Users\falla\Documents\GitHubRepos\HuddersfieldUniversityApp\HuddersfieldUniversityApp\HuddersfieldUniversity\bin\Debug\netcoreapp2.0\HuddersfieldUniversity.pdb
+C:\Users\falla\Documents\GitHubRepos\HuddersfieldUniversityApp\HuddersfieldUniversityApp\HuddersfieldUniversity\obj\Debug\netcoreapp2.0\HuddersfieldUniversity.csprojAssemblyReference.cache
+C:\Users\falla\Documents\GitHubRepos\HuddersfieldUniversityApp\HuddersfieldUniversityApp\HuddersfieldUniversity\obj\Debug\netcoreapp2.0\HuddersfieldUniversity.csproj.CoreCompileInputs.cache
+C:\Users\falla\Documents\GitHubRepos\HuddersfieldUniversityApp\HuddersfieldUniversityApp\HuddersfieldUniversity\obj\Debug\netcoreapp2.0\HuddersfieldUniversity.AssemblyInfoInputs.cache
+C:\Users\falla\Documents\GitHubRepos\HuddersfieldUniversityApp\HuddersfieldUniversityApp\HuddersfieldUniversity\obj\Debug\netcoreapp2.0\HuddersfieldUniversity.AssemblyInfo.cs
+C:\Users\falla\Documents\GitHubRepos\HuddersfieldUniversityApp\HuddersfieldUniversityApp\HuddersfieldUniversity\obj\Debug\netcoreapp2.0\HuddersfieldUniversity.dll
+C:\Users\falla\Documents\GitHubRepos\HuddersfieldUniversityApp\HuddersfieldUniversityApp\HuddersfieldUniversity\obj\Debug\netcoreapp2.0\HuddersfieldUniversity.pdb
