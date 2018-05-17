@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using static HuddersfieldUniversity.Models.Enrollment;
 
 namespace HuddersfieldUniversity.Data
 {
@@ -53,18 +54,18 @@ namespace HuddersfieldUniversity.Data
 
             var enrollments = new Enrollment[]
             {
-            new Enrollment{StudentID=1,CourseID=1050,Grade=Grade.A},
-            new Enrollment{StudentID=1,CourseID=4022,Grade=Grade.C},
-            new Enrollment{StudentID=1,CourseID=4041,Grade=Grade.B},
-            new Enrollment{StudentID=2,CourseID=1045,Grade=Grade.B},
-            new Enrollment{StudentID=2,CourseID=3141,Grade=Grade.F},
-            new Enrollment{StudentID=2,CourseID=2021,Grade=Grade.F},
+            new Enrollment{StudentID=1,CourseID=1050,Grade=GradeEnum.A},
+            new Enrollment{StudentID=1,CourseID=4022,Grade=GradeEnum.C},
+            new Enrollment{StudentID=1,CourseID=4041,Grade=GradeEnum.B},
+            new Enrollment{StudentID=2,CourseID=1045,Grade=GradeEnum.B},
+            new Enrollment{StudentID=2,CourseID=3141,Grade=GradeEnum.F},
+            new Enrollment{StudentID=2,CourseID=2021,Grade=GradeEnum.F},
             new Enrollment{StudentID=3,CourseID=1050},
             new Enrollment{StudentID=4,CourseID=1050},
-            new Enrollment{StudentID=4,CourseID=4022,Grade=Grade.F},
-            new Enrollment{StudentID=5,CourseID=4041,Grade=Grade.C},
+            new Enrollment{StudentID=4,CourseID=4022,Grade=GradeEnum.F},
+            new Enrollment{StudentID=5,CourseID=4041,Grade=GradeEnum.C},
             new Enrollment{StudentID=6,CourseID=1045},
-            new Enrollment{StudentID=7,CourseID=3141,Grade=Grade.A},
+            new Enrollment{StudentID=7,CourseID=3141,Grade=GradeEnum.A},
             };
             foreach (Enrollment e in enrollments)
             {
